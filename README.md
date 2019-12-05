@@ -21,7 +21,7 @@ Bootcamp: https://github.com/abasslinelow/Android-Developer-Fundamentals<br>
 10.1 - 10.3: https://github.com/abasslinelow/Android-Kotlin-Fundamentals-All-Projects/tree/master/GDGFinder-Starter<br>
 </p>
 <p>
-Additionally, each module (and each individual commit for each module) can be found individually at the following URLs:<br>
+Additionally, each individual module (and each individual commit for each module) can be found at the following URLs:<br>
 Bootcamp: https://github.com/abasslinelow/Android-Developer-Fundamentals<br>
 01.1 - 01.3: https://github.com/abasslinelow/AndroidKotlinFundamentals<br>
 01.4: https://github.com/abasslinelow/AndroidKotlinFundamentals-01.4<br>
